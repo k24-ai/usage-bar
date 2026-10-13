@@ -1,0 +1,7 @@
+{
+  "name": "usage-bar",
+  "owner": { "name": "Khalid" },
+  "plugins": [
+    { "name": "usage-bar", "source": "./", "description": "Shows your 5-hour and weekly plan usage above the chat box" }
+  ]
+}

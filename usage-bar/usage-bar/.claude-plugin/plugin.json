@@ -1,0 +1,1 @@
+{ "name": "usage-bar", "version": "0.1.0", "description": "Shows your 5-hour and weekly plan usage above the chat box", "types": "./types/index.d.ts" }
